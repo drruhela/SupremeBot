@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<cards>
+    <card>
+        <type>Example</type>
+        <cardHolder>
+            <name>Joe Bob</name>
+            <email>joebob@yahoo.com</email>
+            <phone>1234567890</phone>
+            <address>
+                <streetAddress>23 Random St.</streetAddress>
+                <unit>1</unit>
+                <city>RandomTown</city>
+                <postal>A2B 3C4</postal>
+                <state>On</state>
+                <country>Canada</country>
+            </address>
+        </cardHolder>
+        <number>1234567890123456789012345</number>
+        <expiry>
+            <month>01</month>
+            <year>2019</year>
+        </expiry>
+        <securityCode>123</securityCode>
+    </card>
+    <card>
+        <type>Primary</type>
+        <cardHolder>
+            <name />
+            <email />
+            <phone />
+            <address>
+                <streetAddress />
+                <unit />
+                <city />
+                <postal />
+                <state />
+                <country />
+            </address>
+        </cardHolder>
+        <number />
+        <expiry>
+            <month>January</month>
+            <year />
+        </expiry>
+        <securityCode />
+    </card>
+    <card>
+        <type>Secondary</type>
+        <cardHolder>
+            <name />
+            <email />
+            <phone />
+            <address>
+                <streetAddress />
+                <unit />
+                <city />
+                <postal />
+                <state />
+                <country />
+            </address>
+        </cardHolder>
+        <number />
+        <expiry>
+            <month>January</month>
+            <year />
+        </expiry>
+        <securityCode />
+    </card>
+    
+    
+</cards>
