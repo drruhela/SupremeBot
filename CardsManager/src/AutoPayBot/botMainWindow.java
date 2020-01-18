@@ -64,7 +64,7 @@ public class botMainWindow extends javax.swing.JFrame {
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("Buy Supreme!");
 
-        jLabel3.setText("Developed by DevDev");
+        jLabel3.setText("Developed by Devika");
 
         ButtonPaymentInfo.setBackground(new java.awt.Color(204, 255, 204));
         ButtonPaymentInfo.setFont(new java.awt.Font("Consolas", 0, 14)); // NOI18N

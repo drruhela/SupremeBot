@@ -284,7 +284,7 @@ public class informationViewer extends javax.swing.JFrame {
         jLabel11.setFont(new java.awt.Font("Consolas", 0, 14)); // NOI18N
         jLabel11.setText("Security Code:");
 
-        jLabel14.setText("Developed by DevDev");
+        jLabel14.setText("Developed by Devika");
 
         returnHomeButton.setBackground(new java.awt.Color(204, 255, 204));
         returnHomeButton.setFont(new java.awt.Font("Consolas", 0, 18)); // NOI18N
@@ -356,9 +356,6 @@ public class informationViewer extends javax.swing.JFrame {
                         .addGap(18, 18, 18)
                         .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(jPanel2Layout.createSequentialGroup()
-                                .addGap(165, 165, 165)
-                                .addComponent(returnHomeButton, javax.swing.GroupLayout.PREFERRED_SIZE, 275, javax.swing.GroupLayout.PREFERRED_SIZE))
-                            .addGroup(jPanel2Layout.createSequentialGroup()
                                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                                     .addComponent(jLabelState, javax.swing.GroupLayout.DEFAULT_SIZE, 147, Short.MAX_VALUE)
                                     .addComponent(jLabelCity, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
@@ -390,7 +387,10 @@ public class informationViewer extends javax.swing.JFrame {
                                         .addGap(18, 18, 18)
                                         .addComponent(jLabel15)
                                         .addGap(18, 18, 18)
-                                        .addComponent(jLabelYear, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)))))))
+                                        .addComponent(jLabelYear, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                            .addGroup(jPanel2Layout.createSequentialGroup()
+                                .addGap(165, 165, 165)
+                                .addComponent(returnHomeButton)))))
                 .addGap(40, 40, 40))
             .addGroup(jPanel2Layout.createSequentialGroup()
                 .addGap(58, 58, 58)

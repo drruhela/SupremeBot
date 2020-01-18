@@ -436,7 +436,7 @@ public class informationEditor extends javax.swing.JFrame {
             }
         });
 
-        jLabel14.setText("Developed by DevDev");
+        jLabel14.setText("Developed by Devika");
 
         saveButton.setBackground(new java.awt.Color(204, 255, 204));
         saveButton.setFont(new java.awt.Font("Consolas", 0, 18)); // NOI18N
@@ -498,7 +498,7 @@ public class informationEditor extends javax.swing.JFrame {
                             .addGroup(jPanel2Layout.createSequentialGroup()
                                 .addComponent(saveButton, javax.swing.GroupLayout.PREFERRED_SIZE, 147, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addGap(18, 18, 18)
-                                .addComponent(returnHomeButton, javax.swing.GroupLayout.PREFERRED_SIZE, 275, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                .addComponent(returnHomeButton)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                                 .addComponent(jLabel14))
                             .addGroup(jPanel2Layout.createSequentialGroup()

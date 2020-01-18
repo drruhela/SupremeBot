@@ -105,10 +105,6 @@
                           <EmptySpace type="separate" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" alignment="0" attributes="0">
-                                  <EmptySpace min="-2" pref="165" max="-2" attributes="0"/>
-                                  <Component id="returnHomeButton" min="-2" pref="275" max="-2" attributes="0"/>
-                              </Group>
-                              <Group type="102" alignment="0" attributes="0">
                                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
                                       <Component id="jLabelState" pref="147" max="32767" attributes="0"/>
                                       <Component id="jLabelCity" max="32767" attributes="0"/>
@@ -150,6 +146,10 @@
                                           <Component id="jLabelYear" min="-2" pref="100" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="165" max="-2" attributes="0"/>
+                                  <Component id="returnHomeButton" min="-2" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                       </Group>
@@ -370,7 +370,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel14">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Developed by DevDev"/>
+            <Property name="text" type="java.lang.String" value="Developed by Devika"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="returnHomeButton">

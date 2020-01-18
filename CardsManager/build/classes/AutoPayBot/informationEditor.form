@@ -111,7 +111,7 @@
                               <Group type="102" attributes="0">
                                   <Component id="saveButton" min="-2" pref="147" max="-2" attributes="0"/>
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
-                                  <Component id="returnHomeButton" min="-2" pref="275" max="-2" attributes="0"/>
+                                  <Component id="returnHomeButton" min="-2" max="-2" attributes="0"/>
                                   <EmptySpace max="32767" attributes="0"/>
                                   <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
                               </Group>
@@ -485,7 +485,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel14">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Developed by DevDev"/>
+            <Property name="text" type="java.lang.String" value="Developed by Devika"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JButton" name="saveButton">

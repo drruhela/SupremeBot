@@ -387,7 +387,7 @@ public class botRunner extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(236, 247, 244));
 
-        jLabel3.setText("Developed by DevDev");
+        jLabel3.setText("Developed by Devika");
 
         ButtonStartBot.setBackground(new java.awt.Color(204, 255, 204));
         ButtonStartBot.setFont(new java.awt.Font("Consolas", 0, 14)); // NOI18N

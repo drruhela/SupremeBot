@@ -65,7 +65,7 @@ public class paymentInfo extends javax.swing.JFrame {
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("Payment Control Center");
 
-        jLabel3.setText("Developed by DevDev");
+        jLabel3.setText("Developed by Devika");
 
         checkInfoButton.setBackground(new java.awt.Color(204, 255, 204));
         checkInfoButton.setFont(new java.awt.Font("Consolas", 0, 14)); // NOI18N
